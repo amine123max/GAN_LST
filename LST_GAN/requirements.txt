@@ -1,0 +1,10 @@
+torch
+torchvision
+numpy
+Pillow
+tqdm
+netCDF4
+matplotlib
+scikit-image
+scikit-learn
+scipy
